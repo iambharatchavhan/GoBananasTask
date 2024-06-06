@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+ # Task
+  -	A list view displaying items fetched from the API.
+  -	Basic navigation and styling using Material-UI.
+  -	A search feature to filter the displayed items.
+
+
+
+
+## Installation
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
