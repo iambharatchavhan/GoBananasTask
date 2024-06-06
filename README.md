@@ -1,7 +1,7 @@
  # Task
-  -	A list view displaying items fetched from the API.
-  -	Basic navigation and styling using Material-UI.
-  -	A search feature to filter the displayed items.
+  -	A list view displaying items fetched from the API. --✅
+  -	Basic navigation and styling using Material-UI. --✅
+  -	A search feature to filter the displayed items.--✅
 
 
 
